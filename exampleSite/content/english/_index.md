@@ -2,9 +2,8 @@
 banner:
   title: Let's help the dogs in shelter <br> Cute little puppy needs some love
   image: images/nicepng_dog-bone-png_280515.png
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim
-    maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque
-    laborum officiis necessitatibus
+  content: We are a community driven token with the aim to save the dogs in shelter
+    and provide donations to selected charities by our community.
   button:
     enable: true
     label: 'Buy '
