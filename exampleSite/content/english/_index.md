@@ -3,7 +3,7 @@ banner:
   title: Let's help the dogs in shelter <br> Cute little puppy needs some love
   image: images/nicepng_dog-bone-png_280515.png
   content: We are a community driven token with the aim to save the dogs in shelter
-    and provide donations to selected charities by our community.
+    and provide donations to selected charities by our community. yo. test.
   button:
     enable: true
     label: 'Buy '
