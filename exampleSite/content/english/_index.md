@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: 'Buy '
-    link: contact
+    link: https://poocoin.app/
 feature:
   enable: true
   title: Something You Need To Know
