@@ -4,6 +4,6 @@ googleAnalytics = ""
 paginate = "3"
 summaryLength = "15"
 theme = "TheBoner"
-title = "The Boner"
+title = "The Puppy Boner"
 [markup.goldmark.renderer]
 unsafe = true
