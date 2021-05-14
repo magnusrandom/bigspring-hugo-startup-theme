@@ -2,7 +2,7 @@ author = "Themefisher"
 contact_form_action = "#"
 description = "This is meta description"
 logo = "images/nicepng_dog-bone-png_280515.png"
-logo_width = "200px"
+logo_width = "100px"
 [navigation_button]
 enable = true
 label = "Get Started"
