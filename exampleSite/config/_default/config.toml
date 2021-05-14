@@ -3,7 +3,7 @@ disqusShortname = ""
 googleAnalytics = ""
 paginate = "3"
 summaryLength = "15"
-theme = "TheBoner"
-title = "The Boner"
+theme = "bigspring"
+title = "Bigspring Hugo"
 [markup.goldmark.renderer]
 unsafe = true
