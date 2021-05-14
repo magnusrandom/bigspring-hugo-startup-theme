@@ -1,6 +1,6 @@
 ---
 banner:
-  title: Let us solve your critical website <br> development challenges
+  title: Let's help the dogs in shelter <br> Cute little booner needs some love
   image: images/nicepng_dog-bone-png_280515.png
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim
     maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque
