@@ -12,8 +12,6 @@ sections:
 - type: document
   path: exampleSite/content/deutsch/_index.md
   label: Homepage (de)
-- type: heading
-  label: Blog
 - type: document
   path: exampleSite/content/english/blog/_index.md
   label: Blog Page (en)
